@@ -8,7 +8,7 @@ The **Recipe Assistant** project addresses these challenges by providing an inte
 
 ## Project Overview
  
-The **Recipe Assistant** is a Recipe Assistance Generator (RAG) app that leverages the recipe dataset to provide an interactive experience for users. The main features of the app include:
+The **Recipe Assistant** is a Retrieval-Augmented Generation (RAG) app that leverages the recipe dataset to provide an interactive experience for users. The main features of the app include:
 
 1. Recipe Discovery: Users can search for new recipes based on cuisine type, difficulty level, or available ingredients.
 2. Dietary Filters: The app can filter recipes according to dietary preferences such as vegan, gluten-free, or keto, helping users find recipes that meet their specific needs.
