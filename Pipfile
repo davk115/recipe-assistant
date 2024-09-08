@@ -9,6 +9,9 @@ pandas = "*"
 scikit-learn = "*"
 notebook = "*"
 python-dotenv = "*"
+flask = "*"
+psycopg2-binary = "*"
+gunicorn = "*"
 
 [dev-packages]
 
